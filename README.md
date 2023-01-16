@@ -1,2 +1,3 @@
-# precurso-henry
-repo de prueba para el modulo 2 de henry
+gonza destefano
+este proyecto es una prueba de como crear un repo y clonarlo en mi 
+directorio local
